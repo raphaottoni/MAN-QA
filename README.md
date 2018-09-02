@@ -1,8 +1,9 @@
 # MAN-QA
-Pytorch implementation of the Multihop Attention Networks for Question Answering matching proposed by Nam Khanh Tran and Claudia Niederee paper at SIGIR'18.
+Pytorch implementation of the Multihop Attention Networks for Question Answering matching model proposed by Nam Khanh Tran and Claudia Niederee paper at SIGIR'18.
 
-# Due Credits
+# Credit's due
 
+## Model propose
 @inproceedings{Tran:2018:MAN:3209978.3210009,
  author = {Tran, Nam Khanh and Niedere{\'e}e, Claudia},
  title = {Multihop Attention Networks for Question Answer Matching},
