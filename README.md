@@ -4,6 +4,7 @@ Pytorch implementation of the Multihop Attention Networks for Question Answering
 # Credit's due
 
 ## Model propose
+```
 @inproceedings{Tran:2018:MAN:3209978.3210009,
  author = {Tran, Nam Khanh and Niedere{\'e}e, Claudia},
  title = {Multihop Attention Networks for Question Answer Matching},
@@ -21,3 +22,4 @@ Pytorch implementation of the Multihop Attention Networks for Question Answering
  address = {New York, NY, USA},
  keywords = {answer selection, attention mechanism, non-factoid qa, representation learning},
 } 
+```
